@@ -1,11 +1,11 @@
 {
   "name": "public-articles",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
-  "description": "Small description for public-articles goes here",
+  "description": "An Ember app to list public articles",
   "repository": "",
   "license": "MIT",
-  "author": "",
+  "author": "Gugan",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -48,5 +48,8 @@
   },
   "engines": {
     "node": "8.* || >= 10.*"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
   }
 }
